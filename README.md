@@ -12,14 +12,6 @@ Young passionate about technology and software / apps development, content creat
  From a small town in the middle of São Paulo to the World!
 
 ## 📧 Contact me
-
-[![gmail_badge]](renatolucas.design@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=RenatoLucasMota.RenatoLucasMota)
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true) -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenatoLucasMota&layout=compact&v=2)](https://wakatime.com/@RenatoLucasMota)
-
-<!-- profile links -->
-[github_profile]: https://github.com/RenatoLucasMota "Github Profile"
 [linkedin]: https://www.linkedin.com/in/renatomotadeveloper/ "Linkedin Profile"
 
 <!-- badges -->
