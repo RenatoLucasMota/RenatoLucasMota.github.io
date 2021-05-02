@@ -13,7 +13,7 @@ Young passionate about technology and software / apps development, content creat
 
 ## 📧 Contact me
 
-[![gmail_badge]](renatolucas.design@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+[![gmail_badge]](renatolucas.design@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=RenatoLucasMota.RenatoLucasMota)
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true) -->
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdeboute&layout=compact&v=2)](https://wakatime.com/@mdeboute)
@@ -23,6 +23,5 @@ Young passionate about technology and software / apps development, content creat
 [linkedin]: https://www.linkedin.com/in/renatomotadeveloper/ "Linkedin Profile"
 
 <!-- badges -->
-[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatolucas.design@gmail.com
 [linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renatomotadeveloper/
 -----
